@@ -1,0 +1,47 @@
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\bin\Debug\sortplaer3.exe
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\bin\Debug\sortplaer3.pdb
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\bin\Debug\taglib-sharp.dll
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\sortplaer3.Form1.resources
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\sortplaer3.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\sortplaer3.exe
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\sortplaer3.pdb
+D:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\sortplaer3.exe
+D:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Debug\sortplaer3.pdb
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.exe
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.pdb
+C:\Visual studio 2013\project 1\sortplaer3\bin\Debug\sortplaer3.exe
+C:\Visual studio 2013\project 1\sortplaer3\bin\Debug\sortplaer3.pdb
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.csprojResolveAssemblyReference.cache
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.Form1.resources
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.Properties.Resources.resources
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.csproj.GenerateResource.Cache
+G:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.exe
+G:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.pdb
+G:\Visual studio 2013\project 1\sortplaer3\bin\Debug\sortplaer3.exe
+G:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.Form1.resources
+G:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\sortplaer3.Properties.Resources.resources
+G:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual studio 2013\project 1\sortplaer3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual studio 2013\project 1\sortplaer3\bin\Debug\sortplaer3.pdb
+H:\Visual studio 2013\project 3\sortplaer3\obj\x86\Debug\sortplaer3.exe
+H:\Visual studio 2013\project 3\sortplaer3\obj\x86\Debug\sortplaer3.pdb
+H:\Visual studio 2013\project 3\sortplaer3\bin\Debug\sortplaer3.exe
+H:\Visual studio 2013\project 3\sortplaer3\bin\Debug\sortplaer3.pdb
+H:\Visual studio 2013\project 3\sortplaer3\obj\x86\Debug\sortplaer3.csprojResolveAssemblyReference.cache
+H:\Visual studio 2013\project 3\sortplaer3\obj\x86\Debug\sortplaer3.Form1.resources
+H:\Visual studio 2013\project 3\sortplaer3\obj\x86\Debug\sortplaer3.Properties.Resources.resources
+H:\Visual studio 2013\project 3\sortplaer3\obj\x86\Debug\sortplaer3.csproj.GenerateResource.Cache
+E:\sortplaer3\obj\x86\Debug\sortplaer3.exe
+E:\sortplaer3\obj\x86\Debug\sortplaer3.pdb
+G:\sortplaer3\obj\x86\Debug\sortplaer3.exe
+G:\sortplaer3\obj\x86\Debug\sortplaer3.pdb
+G:\sortplaer3\bin\Debug\sortplaer3.exe
+G:\sortplaer3\bin\Debug\sortplaer3.pdb
+G:\sortplaer3\obj\x86\Debug\sortplaer3.csprojResolveAssemblyReference.cache
+G:\sortplaer3\obj\x86\Debug\sortplaer3.Form1.resources
+G:\sortplaer3\obj\x86\Debug\sortplaer3.Properties.Resources.resources
+G:\sortplaer3\obj\x86\Debug\sortplaer3.csproj.GenerateResource.Cache

@@ -1,0 +1,60 @@
+package MyEnum;
+
+public enum RestShopEnum { 
+    Invoice_select_all,
+    Invoice_select_one, 
+    Invoice_select_view,
+    Invoice_select_count,
+    Invoice_select_with_count,
+    Invoice_add,
+    Invoice_delete,
+    Invoice_update,
+    
+    Invoice_event_select,
+    Invoice_event_select_count,
+    Invoice_event_add,
+    Invoice_event_delete,
+    Invoice_event_update,
+    
+    Product_select_all,
+    Product_select_count,
+    Product_select_one,
+    Product_select_view,
+    Product_select_short,
+    Product_select_with_count,
+    Product_add,
+    Product_delete,
+    Product_update,
+    Product_get_path_image,
+    Product_set_path_image,
+    
+    Group_product_select,
+    Group_product_select_count,
+    Group_product_add,
+    Group_product_delete,
+    Group_product_update, 
+    
+    Reminder_payments_select,
+    Reminder_payments_select_count,
+    Reminder_payments_select_with_count,
+    Reminder_payments_add,
+    Reminder_payments_delete,
+    Reminder_payments_update, 
+    
+    Reminder_surcharge_select,
+    Reminder_surcharge_select_count,
+    Reminder_surcharge_select_with_count,
+    Reminder_surcharge_add,
+    Reminder_surcharge_delete,
+    Reminder_surcharge_update, 
+    
+    Reminder_payments_messages_select,
+    Reminder_payments_messages_add,
+    Reminder_payments_messages_delete,
+    Reminder_payments_messages_update, 
+    
+    Reminder_surcharge_messages_select,
+    Reminder_surcharge_messages_add,
+    Reminder_surcharge_messages_delete,
+    Reminder_surcharge_messages_update, 
+}

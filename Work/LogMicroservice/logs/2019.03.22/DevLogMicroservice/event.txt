@@ -1,0 +1,1 @@
+Type: event, Time: Fri Mar 22 14:45:47 MSK 2019, NameMicroservice: DevLogMicroservice, NameClass: DevLogMicroservice, Event:Start

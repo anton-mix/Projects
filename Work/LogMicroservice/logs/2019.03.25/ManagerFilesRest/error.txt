@@ -1,0 +1,2 @@
+Type: error, Time: Mon Mar 25 13:54:50 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 25 13:56:53 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Not a JSON Object: "getCheckImage"

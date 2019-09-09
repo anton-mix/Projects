@@ -1,0 +1,2 @@
+Type: error, Time: Sat Mar 02 11:55:38 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKManager, Event: Error in Error in sendMessagesByGroup, Error: send_messages_by_group {"group_token":"be02f9e5b9320339b2cc09707483ec0b226ba58c1e62013f7c154844409e99008ce1f5cd337df43703e07 171469935","message_text":"spam","user_id":"119-9154-4350106-90123-70115-647192411219"}
+Type: error, Time: Sat Mar 02 11:55:39 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKManager, Event: Error in Error in sendMessagesByGroup, Error: java.lang.NullPointerException

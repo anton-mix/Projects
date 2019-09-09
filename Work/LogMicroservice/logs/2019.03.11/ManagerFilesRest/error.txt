@@ -1,0 +1,22 @@
+Type: error, Time: Mon Mar 11 10:55:47 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 10:55:48 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.Exception: Image to large
+Type: error, Time: Mon Mar 11 11:14:15 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 11:14:15 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.Exception: Parse Error
+Type: error, Time: Mon Mar 11 12:05:21 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 12:05:21 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.Exception: Error
+Type: error, Time: Mon Mar 11 12:05:39 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 12:05:40 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.Exception: Error
+Type: error, Time: Mon Mar 11 12:05:47 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 12:05:47 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.NumberFormatException: For input string: ".1"
+Type: error, Time: Mon Mar 11 12:05:53 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 12:05:53 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.NumberFormatException: For input string: "asd"
+Type: error, Time: Mon Mar 11 12:06:07 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 12:06:07 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.ArrayIndexOutOfBoundsException: 4
+Type: error, Time: Mon Mar 11 13:53:17 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 13:53:17 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 13:53:17 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 13:53:18 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: This is not a JSON Array.
+Type: error, Time: Mon Mar 11 13:53:18 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: This is not a JSON Array.
+Type: error, Time: Mon Mar 11 13:53:18 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: This is not a JSON Array.
+Type: error, Time: Mon Mar 11 13:53:39 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Mon Mar 11 13:53:40 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: This is not a JSON Array.

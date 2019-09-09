@@ -1,0 +1,1 @@
+Type: event, Time: Sat May 11 10:46:42 MSK 2019, Name: MailMicroservice, Event:Start

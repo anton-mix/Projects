@@ -1,0 +1,24 @@
+Type: error, Time: Tue Feb 26 11:46:42 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 11:46:42 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 11:56:46 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 11:56:46 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 11:57:44 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 11:57:44 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:00:17 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:00:17 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:20:16 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:20:16 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:21:39 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:21:39 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:29:53 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:29:53 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:31:45 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:31:45 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:54:17 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:54:17 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:55:21 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:55:21 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.ConnectException: Connection refused (Connection refused)
+Type: error, Time: Tue Feb 26 12:56:38 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:56:38 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.SocketException: Connection reset
+Type: error, Time: Tue Feb 26 12:57:49 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: 
+Type: error, Time: Tue Feb 26 12:57:49 MSK 2019, Name: TelegramMicroservice, Event: Error in Can not reach Telegram url, Error: java.net.SocketException: Connection reset

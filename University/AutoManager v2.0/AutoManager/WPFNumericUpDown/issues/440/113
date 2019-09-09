@@ -1,0 +1,49 @@
+There is a little mistake in the NumericUpDown class (NumericUpDown.xaml.cs).
+
+There is a little mistake in the NumericUpDown class (NumericUpDown.xaml.cs). At the
+accessors for the "ShowButtons" property the getter and setter used the "_value "
+variable instead of the "_showButtons" variable. So it´s not possible to set the
+state. However, when someone try to set this property "true" or "false", the
+programm throw an exception. The datatype of the _value variable is double and so it
+don´t work with a bool.
+To correct this mistake you need to change the NumericUpDown.xaml.cs file.
+The accessor starts at line 152. Now you only need to replace "_value" in line 156
+and 160 with "_showButtons". Ready.
+
+************************************************************************************
+
+Correction of NumericUpDown.xaml.cs file:
+-----------------------------------------
+(This is the complete accessor which begins at line 156)
+
+WRONG CODE: Replace this one ...
+-----------
+
+public bool ShowButtons
+{
+	get
+	{
+		return (bool)GetValue(_value);
+	}
+	set
+	{
+		SetValue(_value, value);
+	}
+}
+
+RIGHT CODE: ... with this one.
+-----------
+
+public bool ShowButtons
+{
+	get
+	{
+		return (bool)GetValue(_showButtons);
+	}
+	set
+	{
+		SetValue(_showButtons, value);
+	}
+}
+
+Now the ShowButtons property should work.

@@ -1,0 +1,2 @@
+Type: event, Time: Tue Feb 19 17:29:38 MSK 2019, Name: MailMicroservice, Event:Start
+Type: event, Time: Tue Feb 19 18:26:02 MSK 2019, Name: MailMicroservice, Event:Start

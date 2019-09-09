@@ -1,0 +1,2 @@
+Type: error, Time: Fri Mar 22 15:46:43 MSK 2019, NameMicroservice: ManagerPayments, NameClass: ManagerPayments, Event: Error in order (String). Send message, Error: 
+Type: error, Time: Fri Mar 22 15:46:43 MSK 2019, NameMicroservice: ManagerPayments, NameClass: ManagerPayments, Event: Error in order (String). Send message, Error: java.lang.InterruptedException

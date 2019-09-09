@@ -1,0 +1,2 @@
+Type: error, Time: Sat Feb 23 13:50:10 MSK 2019, Name: AnswerManagerMail, Event: Error in call to queue, Error: {"json_message":{"members":{"PasswordKey":"-44-84-56-9736-936-15-105-14-78-11-61-11855-28","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"}},"code":1}
+Type: error, Time: Sat Feb 23 13:50:10 MSK 2019, Name: AnswerManagerMail, Event: Error in call to queue, Error: java.lang.UnsupportedOperationException: JsonObject

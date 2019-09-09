@@ -1,0 +1,8 @@
+Type: event, Time: Tue Feb 26 11:03:45 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"text":"test","toEmail":"anton-noskov@bk.ru","fromEmail":"info@utp1.ru"} Code: 2
+Type: event, Time: Tue Feb 26 11:03:45 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Tue Feb 26 11:20:25 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"11095-99-103-67-513966-54-1285733-1-44-11241","toEmail":"spopov4328@gmail.com","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Tue Feb 26 11:20:25 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Tue Feb 26 17:49:48 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"text":"qwertyui","toEmail":"be02f9e5b9320339b2cc09707483ec0b226ba58c1e62013f7c154844409e99008ce1f5cd337df43703e07 utptest","fromEmail":"info@utp1.ru","user_id":"79-1043424-51-119-99-292127-84-52-4057156"} Code: 2
+Type: event, Time: Tue Feb 26 17:49:48 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Error"}
+Type: event, Time: Tue Feb 26 17:49:56 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"text":"qwertyui","toEmail":"be02f9e5b9320339b2cc09707483ec0b226ba58c1e62013f7c154844409e99008ce1f5cd337df43703e07 utptest","fromEmail":"info@utp1.ru","user_id":"79-1043424-51-119-99-292127-84-52-4057156"} Code: 2
+Type: event, Time: Tue Feb 26 17:49:56 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Error"}

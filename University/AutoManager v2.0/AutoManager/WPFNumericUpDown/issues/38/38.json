@@ -1,0 +1,65 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "The Space for the UpDown Buttons is not used by the TextBox Control when the buttons are hidden.",
+    "LastUpdatedDate": "2017-12-01T01:59:04.73-08:00",
+    "PlannedForRelease": "WPF NumericUpDown Release April 2011",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "WPFNumericUpDown",
+    "ReportedDate": "2011-01-28T14:41:47.06-08:00",
+    "Status": {
+      "Name": "Active",
+      "Id": 2
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Space for buttons not used up when buttons are hidden",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 38
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "The TextBox is not resized, because it is in the first column of the grid.\r\nAdded a Binding to the Grid.Columns Property of the TextBox, that colspans it when the buttons are hidden",
+      "PostedDate": "2011-01-28T14:42:52.837-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2011-01-28T14:43:07.34-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2011-09-07T07:31:38.183-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:37:52.903-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-12-01T01:59:04.73-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

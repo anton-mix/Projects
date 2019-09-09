@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392125131 source:z:\feda noscov\project 2\winmain\main.cpp
+	<Windows.h>
+	<math.h>
+	<vector>
+

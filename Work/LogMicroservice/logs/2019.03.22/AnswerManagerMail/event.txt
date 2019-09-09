@@ -1,0 +1,2 @@
+Type: event, Time: Fri Mar 22 16:31:51 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Федя Федя","session_id":"-110118-23101103-5478-1254996-10627-28-1065391","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Fri Mar 22 16:31:51 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}

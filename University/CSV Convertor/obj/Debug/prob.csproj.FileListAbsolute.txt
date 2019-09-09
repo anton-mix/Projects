@@ -1,0 +1,12 @@
+C:\Users\NoskovFeda\Desktop\Projects\Project 17\prob\bin\Debug\prob.exe.config
+C:\Users\NoskovFeda\Desktop\Projects\Project 17\prob\bin\Debug\prob.exe
+C:\Users\NoskovFeda\Desktop\Projects\Project 17\prob\bin\Debug\prob.pdb
+C:\Users\NoskovFeda\Desktop\Projects\Project 17\prob\obj\Debug\prob.csprojResolveAssemblyReference.cache
+C:\Users\NoskovFeda\Desktop\Projects\Project 17\prob\obj\Debug\prob.exe
+C:\Users\NoskovFeda\Desktop\Projects\Project 17\prob\obj\Debug\prob.pdb
+e:\desctop\Projects\Project 17\prob\bin\Debug\prob.exe.config
+e:\desctop\Projects\Project 17\prob\obj\Debug\prob.exe
+e:\desctop\Projects\Project 17\prob\obj\Debug\prob.pdb
+e:\desctop\Projects\Project 17\prob\bin\Debug\prob.exe
+e:\desctop\Projects\Project 17\prob\bin\Debug\prob.pdb
+e:\desctop\Projects\Project 17\prob\obj\Debug\prob.csprojResolveAssemblyReference.cache

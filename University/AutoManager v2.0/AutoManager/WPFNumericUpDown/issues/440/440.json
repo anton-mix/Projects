@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "There is a little mistake in the NumericUpDown class (NumericUpDown.xaml.cs). At the accessors for the \"ShowButtons\" property the getter and setter used the \"_value \" variable instead of the \"_showButtons\" variable. So it´s not possible to set the state. However, when someone try to set this property \"true\" or \"false\", the programm throw an exception. The datatype of the _value variable is double and so it don´t work with a bool.\nTo correct this mistake you need to change the NumericUpDown.xaml.cs file.\nThe accessor starts at line 152. Now you only need to replace \"_value\" in line 156 and 160 with \"_showButtons\". Ready.",
+    "LastUpdatedDate": "2013-02-13T17:37:52.647-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "WPFNumericUpDown",
+    "ReportedDate": "2011-08-20T05:45:17.517-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "There is a little mistake in the NumericUpDown class (NumericUpDown.xaml.cs)",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 440
+  },
+  "FileAttachments": [
+    {
+      "FileId": 112,
+      "FileName": "Correction_NumericUpDown_Codeplex.txt",
+      "DownloadUrl": ".\\112"
+    },
+    {
+      "FileId": 113,
+      "FileName": "Correction_NumericUpDown_Codeplex.txt",
+      "DownloadUrl": ".\\113"
+    }
+  ],
+  "Comments": []
+}

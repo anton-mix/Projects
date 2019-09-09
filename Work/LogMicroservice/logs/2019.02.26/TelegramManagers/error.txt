@@ -1,0 +1,4 @@
+Type: error, Time: Tue Feb 26 11:50:30 MSK 2019, Name: TelegramManagers, Event: Error in wrong method code, Error: 
+Type: error, Time: Tue Feb 26 11:50:30 MSK 2019, Name: TelegramManagers, Event: Error in wrong method code, Error: undefined Telegram Microservice operation
+Type: error, Time: Tue Feb 26 11:50:30 MSK 2019, Name: TelegramManagers, Event: Error in Exception in REGISTER_BOT, Error: 
+Type: error, Time: Tue Feb 26 11:50:30 MSK 2019, Name: TelegramManagers, Event: Error in Exception in REGISTER_BOT, Error: java.lang.NullPointerException

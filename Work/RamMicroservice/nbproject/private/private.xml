@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/Managers/UserAuthMessageQueueManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/SQLClass/SQLResult.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/MyInterface/InterfaceConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/Managers/SessionKeyQueueManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/Managers/QueueManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/QueueClass/ArrUserPasswordKeyValue.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/QueueClass/UserArrValue.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/QueueClass/UserAuthModel.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/RestObject/RestObject.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/rammicroservice/RamMicroservice.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/MyEnum/RestRamEnum.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/Managers/ChangePassMessageQueueManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/Managers/AnswerManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/RamMicroservice/src/Managers/LogManager.java</file>
+        </group>
+    </open-files>
+</project-private>

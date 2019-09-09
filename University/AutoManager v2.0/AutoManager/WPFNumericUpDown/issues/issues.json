@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 38,
+    "Title": "Space for buttons not used up when buttons are hidden"
+  },
+  {
+    "Id": 440,
+    "Title": "There is a little mistake in the NumericUpDown class (NumericUpDown.xaml.cs)"
+  },
+  {
+    "Id": 581,
+    "Title": "binding doesnt work?"
+  }
+]

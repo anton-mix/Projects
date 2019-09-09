@@ -1,0 +1,55 @@
+
+<project name="UsersSessionMicroservice" default="run" basedir="/root/utp1/git/backend/UsersSessionMicroservice"> 
+	<property name="src" location="src"/>
+	<property name="lib" location="lib"/>
+    <property name="build" location="UsersSessionMicroservice.class"/>
+
+	<path id="lib.classpath">
+		<fileset dir="${lib}">
+				<include name="**/*.jar"/>
+		</fileset>
+	</path>
+
+	<path id="lib.classpath2">
+		<fileset dir="${lib}">
+				<include name="**/*.jar"/>
+		</fileset>
+		<fileset dir="${build}">
+				<include name="**/*.jar"/>
+		</fileset>
+	</path>
+
+	<target name="clean">
+        	<delete includeEmptyDirs="true">  
+            		<fileset dir="${build}"/>  
+        	</delete> 
+	</target>
+
+	<target name="init" depends="clean">
+		<mkdir dir="${build}"/>
+	</target>
+
+	<target name="build" depends="init">
+		<javac srcdir="${src}" destdir="${build}">
+            		<classpath refid="lib.classpath" />
+        	</javac>	
+	</target>
+
+	<target name="jar" depends="build">
+		<jar destfile="${build}/${ant.project.name}.jar" basedir="${build}"/>
+	</target>
+
+	<target name="run" depends="jar">
+		<java fork="true" spawn="true" classname="Microservice.UserSessionMicroservice">
+			<arg value="141.8.198.38"/> 
+			<arg value="user_session_queue"/> 
+			<arg value="log_queue"/> 
+			<arg value="5672"/> 
+			<arg value="141.8.198.38"/> 
+			<arg value="UTP1"/> 
+			<arg value="utp_1_db"/> 
+			<arg value="db23db23"/> 
+			<classpath refid="lib.classpath2"/>
+		</java>
+	</target>
+</project>

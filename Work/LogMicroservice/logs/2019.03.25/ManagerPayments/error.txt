@@ -1,0 +1,2 @@
+Type: error, Time: Mon Mar 25 17:16:52 MSK 2019, NameMicroservice: ManagerPayments, NameClass: ManagerPayments, Event: Error in getPayments(String). Send message, Error: 
+Type: error, Time: Mon Mar 25 17:16:52 MSK 2019, NameMicroservice: ManagerPayments, NameClass: ManagerPayments, Event: Error in getPayments(String). Send message, Error: java.lang.InterruptedException

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1390918429 source:z:\feda noscov\project  1\xim\xim.cpp
+	"conio.h"
+	<stdlib.h>
+	<windows.h>
+	"xim.h"
+	<time.h>
+	<ctime>
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1390918319 z:\feda noscov\project  1\xim\xim.h
+

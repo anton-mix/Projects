@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "I have simple one form - one interface - one DataContext app but cant make this control work with databinding...\n \n \n \nIController { double Taur; }\n \n \nController\n: IController\n{\n  private double m_Taur = 10;\n \n  public double Taur\n  { \n    get {\n      return m_Taur;\n     }\n     set{\n       m_Taur = value;\n       bool breakpointhere = false; // never hit\n     }\n   }\n}\n \n<eisiWare:NumericUpDown Decimation=\"3\" Height=\"23\" Width=\"120\" Value=\"{Binding Path=Taur}\" />",
+    "LastUpdatedDate": "2013-12-04T03:13:50.6-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "WPFNumericUpDown",
+    "ReportedDate": "2012-03-16T07:28:29.92-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "binding doesnt work?",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 2,
+    "Id": 581
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

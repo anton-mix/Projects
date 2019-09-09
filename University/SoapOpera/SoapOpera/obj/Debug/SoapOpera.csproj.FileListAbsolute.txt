@@ -1,0 +1,79 @@
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.exe.config
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.exe
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.pdb
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\VkNet.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.csprojResolveAssemblyReference.cache
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\MainWindow.g.cs
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\App.g.cs
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera_MarkupCompile.cache
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera_MarkupCompile.lref
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\MainWindow.baml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.g.resources
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.Properties.Resources.resources
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.csproj.GenerateResource.Cache
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.exe
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.pdb
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\NLog.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\SimpleInjector.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\VkNet.dll
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\NLog.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\SimpleInjector.xml
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.exe.manifest
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.application
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.exe.manifest
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.application
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\CaptchaForm.g.cs
+C:\Users\Feda\Desktop\Project\Project 20\SoapOpera\SoapOpera\obj\Debug\CaptchaForm.baml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.exe.config
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.exe.manifest
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.application
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.exe
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\SoapOpera.pdb
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\HtmlAgilityPack.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\JetBrains.Annotations.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Newtonsoft.Json.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\NLog.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\SimpleInjector.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\VkNet.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\HtmlAgilityPack.pdb
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\HtmlAgilityPack.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\JetBrains.Annotations.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Newtonsoft.Json.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\NLog.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\SimpleInjector.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\VkNet.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.csprojAssemblyReference.cache
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\CaptchaForm.g.cs
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\MainWindow.g.cs
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\App.g.cs
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera_MarkupCompile.cache
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera_MarkupCompile.lref
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\CaptchaForm.baml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\MainWindow.baml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.g.resources
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.Properties.Resources.resources
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.csproj.GenerateResource.cache
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.csproj.CoreCompileInputs.cache
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.exe.manifest
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.application
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.csproj.CopyComplete
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.exe
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\obj\Debug\SoapOpera.pdb
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\desctop\Project 3\Project 20\SoapOpera\SoapOpera\bin\Debug\Newtonsoft.Json.pdb

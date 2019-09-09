@@ -1,0 +1,41 @@
+Type: event, Time: Sat Feb 23 13:50:10 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Error"}
+Type: event, Time: Sat Feb 23 14:30:32 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"53-1633-674891-9-382-119-672-82894-33","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 14:30:32 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 14:36:19 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"-69-831-2-125-14-2972-5-69-39-77-3151-35-60","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 14:36:19 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 14:45:36 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"-9644-127-9996117-106-36-86-9071724884-1044","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 14:45:36 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 14:45:48 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 14:45:48 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 14:48:05 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"105-97-8368-11723-59-63109-38101721117613-119","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 14:48:06 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 14:48:24 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"-12135-128-123-6633-8245-46141-23-42-96-4130","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 14:48:24 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:04:53 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"3142-14-68-7-24-11862-741036927-10894110-124","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:04:53 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:17:43 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"-6459-68-568896-37-3545-5-19-117-25348733","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:17:44 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:19:12 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"-11-67108-9-8275874-125-5482-6082123-10012","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:19:12 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:21:17 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"-23-5811612367-118-75109-2240-4458104-285-65","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:21:17 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:21:41 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"115-111-59-15-5-798924-81-8157-104-5777-55-16","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:21:41 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:27:03 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"8145-7288654564-6639-8840750-107-113105","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:27:04 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:27:20 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"-6687-63-6172-78-16114106-296593-88931696","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:27:20 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:29:01 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"passwordKey":"15-83-87-64-48-114-155293-6119-10118-115100-24","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 1
+Type: event, Time: Sat Feb 23 15:29:02 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 15:48:40 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Федя Федя","session_id":"-92113-116-4423618960-5113-40-23-53-62945","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Sat Feb 23 15:48:41 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 16:39:01 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Федя Федя","session_id":"43127-9717-4720-34-2123-193493329106-113","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Sat Feb 23 16:39:02 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 16:41:22 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Федя Федя","session_id":"-1113484-64-26270-103-9927592911620-59-96","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Sat Feb 23 16:41:22 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 16:44:42 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Федя Федя","session_id":"-107110112-49-91125-64-83-15-6659-10525114-4520","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Sat Feb 23 16:44:42 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 16:45:03 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Федя Федя","session_id":"50-7640545375-70-6810476-12515-11227-38-122","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Sat Feb 23 16:45:03 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Sat Feb 23 16:51:43 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Федя Федя","session_id":"-29-51-21-94114-20-121-7579356995-7562-9-34","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Sat Feb 23 16:51:44 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}

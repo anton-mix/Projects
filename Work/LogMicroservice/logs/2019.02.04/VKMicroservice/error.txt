@@ -1,0 +1,12 @@
+Type: error, Time: Mon Feb 04 15:29:01 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: 
+Type: error, Time: Mon Feb 04 15:29:02 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: java.lang.IllegalArgumentException
+Type: error, Time: Mon Feb 04 15:31:42 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: 
+Type: error, Time: Mon Feb 04 15:31:43 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: java.lang.IllegalArgumentException
+Type: error, Time: Mon Feb 04 15:33:38 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: 
+Type: error, Time: Mon Feb 04 15:33:38 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: java.lang.IllegalArgumentException
+Type: error, Time: Mon Feb 04 15:35:00 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: 
+Type: error, Time: Mon Feb 04 15:35:00 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKAnswerManager, Event: Error in AnswerManager. Error on init, Error: java.lang.IllegalArgumentException
+Type: error, Time: Mon Feb 04 15:57:49 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKManager, Event: Error in Error in getUserGroups, Error: get_user_groups {"token":"1cb131beb5aff54b3a004d3326eb807f34fc946c874879e7a13778a9f6e83003b3f5bec79e35cc2a71124","user_id":"5910273-10441102-86-7923109-13-122-99-115-2356"}
+Type: error, Time: Mon Feb 04 15:57:49 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKManager, Event: Error in Error in getUserGroups, Error: java.lang.NullPointerException
+Type: error, Time: Mon Feb 04 16:00:35 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKManager, Event: Error in Error in getUserGroups, Error: get_user_groups {"token":"9b18e266b2233e552abc183df68669b69163b1260f39accd537f4807fb454e81462358066551416687b40","user_id":"5910273-10441102-86-7923109-13-122-99-115-2356"}
+Type: error, Time: Mon Feb 04 16:00:36 MSK 2019, NameMicroservice: VKMicroservice, NameClass: VKManager, Event: Error in Error in getUserGroups, Error: java.lang.NullPointerException

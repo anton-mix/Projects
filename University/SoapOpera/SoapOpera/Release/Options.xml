@@ -1,0 +1,3 @@
+<Options>
+  <CreateDocument Exept_Group_Id="True" Exept_Empty_Photo="False" />
+</Options>

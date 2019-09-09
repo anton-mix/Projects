@@ -1,0 +1,6 @@
+Type: event, Time: Mon Mar 25 11:33:13 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Mon Mar 25 11:33:17 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Mon Mar 25 16:18:21 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Feda SS","session_id":"-74-31-23-1280-128-7253-88-7531-33-12-364969","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Mon Mar 25 16:18:21 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}
+Type: event, Time: Mon Mar 25 16:21:48 MSK 2019, Name: AnswerManagerMail, Event: receive message: Json message: {"name":"Feda SS","session_id":"-64-24102-495968-11626-2738-16925358-16-21","toEmail":"xxim123@mail.ru","fromEmail":"info@utp1.ru"} Code: 0
+Type: event, Time: Mon Mar 25 16:21:48 MSK 2019, Name: AnswerManagerMail, Event:send message: {"result":"Ok"}

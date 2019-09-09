@@ -1,0 +1,2 @@
+Type: error, Time: Thu May 16 16:05:10 MSK 2019, NameMicroservice: ManagerUsersRest, NameClass: ManagerUsersRest, Event: Error in getUser(String). Send message, Error: 
+Type: error, Time: Thu May 16 16:05:10 MSK 2019, NameMicroservice: ManagerUsersRest, NameClass: ManagerUsersRest, Event: Error in getUser(String). Send message, Error: java.lang.InterruptedException

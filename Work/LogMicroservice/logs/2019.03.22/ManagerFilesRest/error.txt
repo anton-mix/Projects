@@ -1,0 +1,2 @@
+Type: error, Time: Fri Mar 22 17:00:01 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: 
+Type: error, Time: Fri Mar 22 17:00:02 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in uploadImage(String). Exception, Error: java.lang.NumberFormatException: null

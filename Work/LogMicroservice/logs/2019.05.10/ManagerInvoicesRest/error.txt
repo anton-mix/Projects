@@ -1,0 +1,2 @@
+Type: error, Time: Fri May 10 12:07:05 MSK 2019, NameMicroservice: ManagerInvoicesRest, NameClass: ManagerInvoicesRest, Event: Error in getInvoice2(). Send message, Error: 
+Type: error, Time: Fri May 10 12:07:05 MSK 2019, NameMicroservice: ManagerInvoicesRest, NameClass: ManagerInvoicesRest, Event: Error in getInvoice2(). Send message, Error: java.lang.IllegalStateException: Not a JSON Object: null

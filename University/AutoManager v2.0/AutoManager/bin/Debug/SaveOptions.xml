@@ -1,0 +1,11 @@
+<Options>
+  <Counter Enables="True" Text="{i}" Start="1" Step="1" />
+  <Child_Windows>
+    <Item Child_Window="Сохранить как" />
+    <Item Child_Window="Total Commander" />
+  </Child_Windows>
+  <Ellements>
+    <Item Ellements="Edit" />
+    <Item Ellements="Button" />
+  </Ellements>
+</Options>

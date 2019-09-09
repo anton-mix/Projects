@@ -1,0 +1,2 @@
+Type: event, Time: Tue Feb 19 17:31:21 MSK 2019, NameMicroservice: DevLogMicroservice, NameClass: DevLogMicroservice, Event:Start
+Type: event, Time: Tue Feb 19 18:28:18 MSK 2019, NameMicroservice: DevLogMicroservice, NameClass: DevLogMicroservice, Event:Start

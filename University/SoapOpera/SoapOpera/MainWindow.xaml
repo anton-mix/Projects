@@ -1,0 +1,104 @@
+﻿<Window x:Class="SoapOpera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SoapOpera"
+        mc:Ignorable="d"
+        Title="SoapOpera" Height="356" Width="600">
+    <Grid>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="Сформировать xls файл">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lPathFolder" Content="Имя файла: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="75"/>
+                    <TextBox x:Name="tbPahtFolder" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="90,10,115,0" IsEnabled="False"/>
+                    <Button x:Name="bPathFolder" Content="Выбрать папку" VerticalAlignment="Top" Margin="0,10,10,0" Height="23" HorizontalAlignment="Right" Width="100" Click="bPathFolder_Click"/>
+                    <Label x:Name="lAlbum" Content="Альбомы" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0" Width="75"/>
+                    <ComboBox x:Name="cbAlbum" VerticalAlignment="Top" Margin="90,40,10,0" Height="23"/>
+                    <Label x:Name="lDataFrom" Content="Дата: c" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,71,0,0"/>
+                    <TextBox x:Name="tbDataFrom" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="220" Margin="62,74,0,0"/>
+                    <Label x:Name="lDataTo" Content="по" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="287,71,0,0"/>
+                    <TextBox x:Name="tbDataTo" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="316,74,10,0"/>
+                    <Label x:Name="lProgress" Content="Текущий прогресс:" VerticalAlignment="Top" Margin="10,98,0,0" HorizontalAlignment="Left" Width="115"/>
+                    <ProgressBar x:Name="pbProgress" Height="23" VerticalAlignment="Top" Margin="130,101,137,0"/>
+                    <Button x:Name="bCreatFile" Content="Сформировать файл" HorizontalAlignment="Right" VerticalAlignment="Top" Width="122" Margin="0,102,10,0" Click="bCreatFile_Click"/>
+                    <Label x:Name="lErrors" Margin="10,129,10,0"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Отправка сообщений">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lPathFolder2" Content="Имя файла: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+                    <TextBox x:Name="tbPathFolder2" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="91,13,152,0" IsEnabled="False"/>
+                    <Button x:Name="bPathFolder2" Content="Выбрать папку" VerticalAlignment="Top" Margin="0,12,10,0" HorizontalAlignment="Right" Width="137" Click="bPathFolder2_Click"/>
+                    <RadioButton x:Name="rbChouse1" Content="Сообщение с текстом оплаты" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0" IsChecked="True" Checked="rbChouse1_Checked"/>
+                    <RadioButton x:Name="rbChouse2" Content="Произвольное сообщение" VerticalAlignment="Top" Margin="320,40,0,0" HorizontalAlignment="Left" Width="163" Checked="rbChouse2_Checked"/>
+                    <Button x:Name="bResiveMessage" Content="Отправить сообщение" Margin="0,0,10,79" HorizontalAlignment="Right" Width="137" Click="bResiveMessage_Click" Height="22" VerticalAlignment="Bottom"/>
+                    <RichTextBox x:Name="rtbTextArea" Margin="10,66,10,106" Block.LineHeight="6">
+                        <FlowDocument>
+                            <Paragraph/>
+                        </FlowDocument>
+                    </RichTextBox>
+
+
+
+                    <RichTextBox x:Name="lErrors2" Margin="10,0,10,10" Block.LineHeight="6" Height="64" VerticalAlignment="Bottom">
+                        <FlowDocument>
+                            <Paragraph/>
+                        </FlowDocument>
+                    </RichTextBox>
+
+                    <Button x:Name="bSaveMassage" Content="Сохранить сообщение" Margin="0,0,152,79" HorizontalAlignment="Right" Width="145" Height="22" VerticalAlignment="Bottom" Click="bSaveMassage_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Сформировать файл в печать">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lPathFolderPrint1" Content="Имя файла с таблицей:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="tbPathFolderPrint1" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="152,13,125,0" IsEnabled="False"/>
+                    <Button x:Name="bPathFolderPrint1" Content="Выбрать файл" VerticalAlignment="Top" Margin="0,14,10,0" Click="bPathFolderPrint1_Click" HorizontalAlignment="Right" Width="110"/>
+                    <Label x:Name="lPathFolderPrint2" Content="Имя файла для печати:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="tbPathFolderPrint2" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="152,44,125,0" IsEnabled="False"/>
+                    <Button x:Name="bPathFolderPrint2" Content="Выбрать файл" VerticalAlignment="Top" Margin="0,45,10,0" Click="bPathFolderPrint2_Click" HorizontalAlignment="Right" Width="110"/>
+                    <Button x:Name="CreatePrintFile" Content="Сформировать файл" VerticalAlignment="Bottom" Margin="0,0,10,79" Click="CreatePrintFile_Click" HorizontalAlignment="Right" Width="142"/>
+                    <RichTextBox x:Name="lErrors3" Margin="10,0,10,10" Block.LineHeight="6" Height="64" VerticalAlignment="Bottom">
+                        <FlowDocument>
+                            <Paragraph/>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Удаление комментарии">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lAlbum2" Content="Альбомы" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,9,0,0" Width="75"/>
+                    <ComboBox x:Name="cbAlbum2" VerticalAlignment="Top" Margin="85,9,10,0" Height="23"/>
+                    <Label x:Name="lDataFrom2" Content="Дата: c" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0"/>
+                    <TextBox x:Name="tbDataFrom2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="220" Margin="62,43,0,0"/>
+                    <Label x:Name="lDataTo2" Content="по" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="287,40,0,0"/>
+                    <TextBox x:Name="tbDataTo2" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="316,43,10,0"/>
+                    <Button x:Name="DeleteComments" Content="Удалить комментарии" Margin="0,0,10,79" Height="22" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="142" Click="DeleteComments_Click"/>
+                    <RichTextBox x:Name="lErrors4" Margin="10,0,10,10" Block.LineHeight="6" Height="64" VerticalAlignment="Bottom">
+                        <FlowDocument>
+                            <Paragraph/>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Настройки">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lOptionCreate" Content="Настройки формирования xls файла:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+                    <CheckBox x:Name="cbExeptGroupId" Content="Исключать комментарии группы из поиска." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,41,0,0" Checked="cbExeptGroupId_Checked" Unchecked="cbExeptGroupId_Checked"/>
+                    <CheckBox x:Name="cbExeptEmptyPhoto" Content="Не показывать фотографии без комментариев." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,60,0,0" Checked="cbExeptEmptyPhoto_Checked" Unchecked="cbExeptEmptyPhoto_Checked"/>
+                    <CheckBox x:Name="cbUseColColum" Content="Вставить колонку для указания размерности" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,81,0,0"/>
+                    <Label x:Name="lOptionExcel" Content="Формат Excel:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,99,0,0" Width="316"/>
+                    <Label x:Name="lPasswordInfo" Content="Пароль от VK.com" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,153,0,0"/>
+                    <PasswordBox x:Name="pbPassword" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="125,153,0,0" Width="201" PasswordChanged="pbPassword_PasswordChanged"/>
+                    <Label x:Name="lHelp" Content="В сообщения можно использовать следующие символы:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,227,0,0"/>
+                    <Label x:Name="lHelp2" Content=" {имя}, {стоимость}, {список}, {альбом}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,258,0,0"/>
+                    <ComboBox x:Name="cbFormat" HorizontalAlignment="Left" VerticalAlignment="Top" Width="316" Margin="10,126,0,0" SelectedIndex="0">
+                        <TextBlock>Excel 2003</TextBlock>
+                        <TextBlock>Формат по умолчанию</TextBlock>
+                    </ComboBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

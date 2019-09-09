@@ -1,0 +1,1 @@
+Type: event, Time: Sat May 11 10:46:59 MSK 2019, NameMicroservice: NotificationLogMicroservice, NameClass: NotificationLogMicroservice, Event:Start

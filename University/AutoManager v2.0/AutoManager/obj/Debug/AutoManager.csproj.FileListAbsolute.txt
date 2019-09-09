@@ -1,0 +1,29 @@
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\bin\Debug\AutoManager.exe.config
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\bin\Debug\AutoManager.exe
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\bin\Debug\AutoManager.pdb
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.csprojResolveAssemblyReference.cache
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\MainWindow.g.cs
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\App.g.cs
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager_MarkupCompile.cache
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager_MarkupCompile.lref
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\MainWindow.baml
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.g.resources
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.Properties.Resources.resources
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.csproj.GenerateResource.Cache
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.exe
+C:\Users\Feda\Desktop\Project\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.pdb
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\bin\Debug\AutoManager.exe.config
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\bin\Debug\AutoManager.exe
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\bin\Debug\AutoManager.pdb
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.csprojAssemblyReference.cache
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\MainWindow.g.cs
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\App.g.cs
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager_MarkupCompile.cache
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager_MarkupCompile.lref
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\MainWindow.baml
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.g.resources
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.Properties.Resources.resources
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.csproj.GenerateResource.cache
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.csproj.CoreCompileInputs.cache
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.exe
+g:\desctop\Project 3\Project 19\AutoManager\AutoManager\obj\Debug\AutoManager.pdb

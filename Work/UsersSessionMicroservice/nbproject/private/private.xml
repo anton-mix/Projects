@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Microservice/UserSessionMicroservice.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Managers/UsersManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/HttpSettings/UserEmailsConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/SQLResult.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyException/MyNotAuthorizedException.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/RestObject/RessiveClass.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/Contact/TypeGroupContacts.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Managers/UserSystemInfoManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/UserAuthModel.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyEnum/MailMessageEnum.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/UserAuthModelConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/UserUpdatePassword.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/ArrUserPasswordKeyValue.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/ArrUserPasswordKeyValueConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/SQLResultConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MessageClass/MessageChangePasswordConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/User/ShortUserEmail.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/Contact/GroupContacts.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Managers/LogManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/Contact/GroupContactsConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/HttpSettings/UserEmails.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/ImageObjects/LoadImage.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/ResData.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/User/UserSystemInfo.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/UserArrValueConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/SessionArrValue.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/RestObject/RestObject.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/ResQueueItem.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/UserArrValue.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Managers/ImageManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Managers/RamManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/User/UserModel.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/SessionArrValueConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyEnum/RestUserEnum.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyEnum/RestRamEnum.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyInterface/ManagerInterface.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/ImageObjects/LoadImageConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/QueueClass/UserUpdatePasswordConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MessageClass/MessageChangePassword.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/GlobalVariables.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/User/UserSystemInfoConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyInterface/InterfaceMessages.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyInterface/InterfaceConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/RestObject/RestObjectConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/User/UserModelConverter.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/MyEnum/ImageEnum.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Managers/AnswerManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/Managers/MessageManager.java</file>
+            <file>file:/G:/desctop/Project%203/Project%2035/UsersSessionMicroservice/src/SQLClass/Contact/ShortGroupContacts.java</file>
+        </group>
+    </open-files>
+</project-private>

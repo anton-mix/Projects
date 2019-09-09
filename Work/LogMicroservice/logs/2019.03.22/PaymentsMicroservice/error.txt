@@ -1,0 +1,20 @@
+Type: error, Time: Fri Mar 22 13:44:10 EAT 2019, NameMicroservice: PaymentsMicroservice, NameClass: managers.QueueManager, Event: Error in Unexpected exception: TEST, Error: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 5
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:176)
+	at com.google.gson.Gson.fromJson(Gson.java:795)
+	at com.google.gson.Gson.fromJson(Gson.java:761)
+	at com.google.gson.Gson.fromJson(Gson.java:710)
+	at com.google.gson.Gson.fromJson(Gson.java:682)
+	at managers.QueueManager.handleDelivery(QueueManager.java:75)
+	at com.rabbitmq.client.impl.ConsumerDispatcher$5.run(ConsumerDispatcher.java:149)
+	at com.rabbitmq.client.impl.ConsumerWorkService$WorkPoolRunnable.run(ConsumerWorkService.java:100)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 5
+	at com.google.gson.stream.JsonReader.expect(JsonReader.java:339)
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:322)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165)
+	... 10 more
+
+
+

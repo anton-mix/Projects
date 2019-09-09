@@ -1,0 +1,4 @@
+Type: error, Time: Tue Feb 26 12:04:44 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: User_select_emails {}
+Type: error, Time: Tue Feb 26 12:04:44 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: MyException.MyNotAuthorizedException: auth-failed
+Type: error, Time: Tue Feb 26 13:22:37 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: User_select_emails {"user_id":"-97-105115-114107511056827-7262-15-779-12152"}
+Type: error, Time: Tue Feb 26 13:22:37 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: MyException.MyNotAuthorizedException: auth-failed

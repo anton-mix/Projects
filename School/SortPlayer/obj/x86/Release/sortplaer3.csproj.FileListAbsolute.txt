@@ -1,0 +1,18 @@
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\bin\Release\sortplaer3.exe
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\bin\Release\sortplaer3.pdb
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\bin\Release\taglib-sharp.dll
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Release\sortplaer3.Form1.resources
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Release\sortplaer3.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Release\sortplaer3.exe
+C:\Documents and Settings\User\Рабочий стол\проекты\проект 20\plaer\sortplaer3\obj\x86\Release\sortplaer3.pdb
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Release\sortplaer3.exe
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Release\sortplaer3.pdb
+C:\Visual studio 2013\project 1\sortplaer3\bin\Release\sortplaer3.exe
+C:\Visual studio 2013\project 1\sortplaer3\bin\Release\sortplaer3.pdb
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Release\sortplaer3.csprojResolveAssemblyReference.cache
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Release\sortplaer3.Form1.resources
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Release\sortplaer3.Properties.Resources.resources
+C:\Visual studio 2013\project 1\sortplaer3\obj\x86\Release\sortplaer3.csproj.GenerateResource.Cache

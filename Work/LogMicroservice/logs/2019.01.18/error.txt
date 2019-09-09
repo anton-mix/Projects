@@ -1,0 +1,107 @@
+
+Type: error, Time: Fri Jan 18 13:24:09 MSK 2019, Name: ManagerInvoicesRest, Event: Error in getInvoice2(). Send message, Error: java.lang.IllegalStateException: Not a JSON Object: null
+Type: error, Time: Fri Jan 18 13:27:38 MSK 2019, Name: ManagerInvoicesRest, Event: Error in getInvoice2(). Send message, Error: java.lang.IllegalStateException: Not a JSON Object: null
+Type: error, Time: Fri Jan 18 13:28:24 MSK 2019, Name: ManagerInvoicesRest, Event: Error in getInvoice2(). Send message, Error: java.lang.IllegalStateException: Not a JSON Object: null
+Type: error, Time: Fri Jan 18 13:28:34 MSK 2019, Name: ManagerInvoicesRest, Event: Error in getInvoice2(). Send message, Error: java.lang.IllegalStateException: Not a JSON Object: null
+Type: error, Time: Fri Jan 18 13:45:57 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:45:57 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:46:18 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:46:18 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:47:09 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:47:09 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:47:30 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:47:30 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:48:21 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:48:21 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:48:42 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:48:42 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:49:33 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:49:33 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:49:54 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:49:54 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:50:45 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:50:45 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:51:06 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:51:06 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:51:58 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:51:58 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:52:19 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:52:19 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:53:10 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:53:10 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:53:31 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:53:31 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:54:22 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 13:54:22 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 13:54:43 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 13:54:43 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 14:02:46 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 14:02:46 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 14:03:07 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":12}
+Type: error, Time: Fri Jan 18 14:03:07 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 14:12:25 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: User_select_emails {"user_id":"85-23-3012282-52-382585-36981149029-2120"}
+Type: error, Time: Fri Jan 18 14:12:25 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: MyException.MyNotAuthorizedException: auth-failed
+Type: error, Time: Fri Jan 18 14:16:12 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: {"json_message":"{}","session_key":"","code":11}
+Type: error, Time: Fri Jan 18 14:16:12 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Type: error, Time: Fri Jan 18 17:15:47 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: Messages_select_with_count {"user_id":"54-3489-86-759747-2419-10541-7488113-126-51","message_num":-1,"limit":5,"offset":0}
+Type: error, Time: Fri Jan 18 17:15:47 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: java.lang.NullPointerException
+Type: error, Time: Fri Jan 18 17:16:19 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: Messages_select_with_count {"user_id":"101-7013-846785517882-9995-1974116-7","message_num":-1,"limit":5,"offset":0}
+Type: error, Time: Fri Jan 18 17:16:19 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: java.lang.NullPointerException
+Type: error, Time: Fri Jan 18 17:23:13 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: User_begin_change_password {"username":"orachigami"}
+Type: error, Time: Fri Jan 18 17:23:13 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: UserAnswerManager, Event: Error in handleDelivery(); Error to send., Error: java.lang.ClassCastException: MessageClass.MessageChangePassword cannot be cast to MessageClass.MessageAuth
+Type: error, Time: Fri Jan 18 17:25:55 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: User_begin_change_password {"username":"orachigami"}
+Type: error, Time: Fri Jan 18 17:25:56 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: java.lang.IllegalStateException: Invalid configuration: 'routingKey' must be non-null.
+Type: error, Time: Fri Jan 18 17:27:12 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: User_begin_change_password {"username":"orachigami"}
+Type: error, Time: Fri Jan 18 17:27:13 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: java.lang.IllegalStateException: Invalid configuration: 'routingKey' must be non-null.
+Type: error, Time: Fri Jan 18 17:30:09 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: User_begin_change_password {"username":"orachigami"}
+Type: error, Time: Fri Jan 18 17:30:09 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: java.lang.IllegalStateException: Invalid configuration: 'routingKey' must be non-null.
+Type: error, Time: Fri Jan 18 17:36:01 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: User_begin_change_password {"username":"orachigami"}
+Type: error, Time: Fri Jan 18 17:36:01 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: java.lang.IllegalStateException: Invalid configuration: 'routingKey' must be non-null.
+Type: error, Time: Fri Jan 18 17:36:39 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: User_begin_change_password {"username":"orachigami"}
+Type: error, Time: Fri Jan 18 17:36:39 MSK 2019, NameMicroservice: UserSessionMicroservice, NameClass: MessagesManager, Event: Error in sendMessageChangePssword(MessageChangePassword). Exception, Error: java.lang.IllegalStateException: Invalid configuration: 'routingKey' must be non-null.
+Type: error, Time: Fri Jan 18 17:46:38 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: Messages_select_with_count {"user_id":"89-327540-627274120-7538-126105-10-39-6-28","message_num":-1,"limit":10,"offset":0}
+Type: error, Time: Fri Jan 18 17:46:38 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: java.lang.NullPointerException
+Type: error, Time: Fri Jan 18 17:48:30 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: Messages_select_with_count {"user_id":"-1278412-93126-12696101-98-552434-12814-108-58","message_num":-1,"limit":10,"offset":0}
+Type: error, Time: Fri Jan 18 17:48:30 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: java.lang.NullPointerException
+Type: error, Time: Fri Jan 18 17:53:23 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: Messages_select_with_count {"user_id":"-1254967-99-86-23-40-4442-109-2087-92-75-111-101","message_num":-1,"limit":10,"offset":0}
+Type: error, Time: Fri Jan 18 17:53:23 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: java.lang.NullPointerException
+Type: error, Time: Fri Jan 18 17:55:00 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: Messages_select_with_count {"user_id":"-1254967-99-86-23-40-4442-109-2087-92-75-111-101","limit":10,"offset":0}
+Type: error, Time: Fri Jan 18 17:55:00 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingAnswerManager, Event: Error in handleDelivery(); Error to send., Error: java.lang.NullPointerException

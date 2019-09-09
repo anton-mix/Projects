@@ -1,0 +1,3 @@
+Type: event, Time: Sun May 12 11:01:11 MSK 2019, NameMicroservice: NotificationLogMicroservice, NameClass: NotificationLogMicroservice, Event:Start
+Type: event, Time: Sun May 12 11:05:09 MSK 2019, NameMicroservice: NotificationLogMicroservice, NameClass: NotificationLogAnswerManager, Event: receive message: Json message: {"user_id":"-11348-50116-102-119-99-3269-2120-93-13-51-73112","limit":0,"offset":0} Session key: -11348-50116-102-119-99-3269-2120-93-13-51-73112 Code: Notification_log_select
+Type: event, Time: Sun May 12 11:05:10 MSK 2019, NameMicroservice: NotificationLogMicroservice, NameClass: NotificationLogAnswerManager, Event:send message: []

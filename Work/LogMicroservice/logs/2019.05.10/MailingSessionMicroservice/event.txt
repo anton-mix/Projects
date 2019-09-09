@@ -1,0 +1,1 @@
+Type: event, Time: Fri May 10 11:46:14 MSK 2019, NameMicroservice: MailingSessionMicroservice, NameClass: MailingSessionMicroservice, Event:Start

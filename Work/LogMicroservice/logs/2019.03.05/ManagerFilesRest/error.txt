@@ -1,0 +1,6 @@
+Type: error, Time: Tue Mar 05 14:59:39 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in ManagerFilesRest. Init, Error: 
+Type: error, Time: Tue Mar 05 14:59:40 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in ManagerFilesRest. Init, Error: java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+Type: error, Time: Tue Mar 05 14:59:49 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in ManagerFilesRest. Init, Error: 
+Type: error, Time: Tue Mar 05 14:59:49 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in ManagerFilesRest. Init, Error: java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+Type: error, Time: Tue Mar 05 14:59:58 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in ManagerFilesRest. Init, Error: 
+Type: error, Time: Tue Mar 05 14:59:59 MSK 2019, NameMicroservice: ManagerFilesRest, NameClass: ManagerFilesRest, Event: Error in ManagerFilesRest. Init, Error: java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
